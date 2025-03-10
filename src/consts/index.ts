@@ -132,7 +132,7 @@ export const groups: {
     title: "Databases",
     members: 1900,
     image: Databases,
-    path: "",
+    path: "https://t.me/joinchat/FNPR30zFvqKaWRLOmq-R6A",
   },
 ];
 
