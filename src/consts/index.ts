@@ -6,6 +6,7 @@ import Linux from "../images/linux.jpg";
 import Android from "../images/android.jpg";
 import DevsChat from "../images/devschat.jpg";
 import CPlusPlus from "../images/cplusplus.jpg";
+import Databases from "../images/databases.jpg";
 import DevOps from "../images/devops.jpg";
 import Design from "../images/design.jpg";
 import Go from "../images/go.jpg";
