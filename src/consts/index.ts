@@ -128,6 +128,12 @@ export const groups: {
     image: GameDevelopment,
     path: "https://t.me/joinchat/BkBvqUTxcmvTpm7bSZyx9g",
   },
+  {
+    title: "Databases",
+    members: 1900,
+    image: Databases,
+    path: "",
+  },
 ];
 
 interface Project {
